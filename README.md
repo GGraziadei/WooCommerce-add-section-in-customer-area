@@ -2,3 +2,4 @@
 
 ## Installation
 - Add the code in functions.php
+- Save Permalink
